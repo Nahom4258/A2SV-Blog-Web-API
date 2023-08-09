@@ -1,5 +1,75 @@
+# .gitignore
+
+# .NET Core
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+*.exe
+*.pdb
+*.dll
+*.user
+*.vscode
+.vscode/
+.vs/
+.vsconfig
+*_ReSharper*/
+*.suo
+*.userprefs
+
+# Visual Studio
+.vscode/
+.vs/
+.vsconfig
+*.sln.ide
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+.vscode/*.history
+
+# Logs and databases
+*.log
+*.sqlite
+
+# NuGet
+packages/
+*.nupkg
+*.paket.*
+paket-files/
+.paket/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Logs
+logs/
+
+# Visual Studio 2019+
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
