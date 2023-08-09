@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2SV - Blog CRUD", "A2SV - Blog CRUD\A2SV - Blog CRUD.csproj", "{E66CEE6A-B958-4043-BB30-2F53DB2267F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66CEE6A-B958-4043-BB30-2F53DB2267F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66CEE6A-B958-4043-BB30-2F53DB2267F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66CEE6A-B958-4043-BB30-2F53DB2267F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66CEE6A-B958-4043-BB30-2F53DB2267F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
