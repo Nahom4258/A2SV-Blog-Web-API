@@ -31,7 +31,7 @@ public class postsController : ControllerBase
         
         return Ok(post);
     }
-    
+
     [HttpPost]
     public async Task<IActionResult> Post(Post post)
     {
